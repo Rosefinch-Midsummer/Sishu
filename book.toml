@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "新四書章句集注"
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]

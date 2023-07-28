@@ -1,1 +1,4 @@
-# mdbook-template
+
+```bash
+<!-- toc -->
+```
